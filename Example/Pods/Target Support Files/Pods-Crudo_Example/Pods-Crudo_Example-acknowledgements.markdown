@@ -3,7 +3,7 @@ This application makes use of the following third party libraries:
 
 ## Crudo
 
-Copyright (c) 2018 Jason Grandelli <jasongrandelli@gmail.com>
+Copyright (c) 2018 URBN Engineering <jasongrandelli@gmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
