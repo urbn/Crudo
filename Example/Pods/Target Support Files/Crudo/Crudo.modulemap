@@ -1,0 +1,6 @@
+framework module Crudo {
+  umbrella header "Crudo-umbrella.h"
+
+  export *
+  module * { export * }
+}

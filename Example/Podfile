@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'Crudo_Example' do
+  pod 'Crudo', :path => '../'
+
+  target 'Crudo_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
