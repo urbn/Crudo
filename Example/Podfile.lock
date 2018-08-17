@@ -1,0 +1,16 @@
+PODS:
+  - Crudo (0.1.0)
+
+DEPENDENCIES:
+  - Crudo (from `../`)
+
+EXTERNAL SOURCES:
+  Crudo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Crudo: cddf9f950f1b2036569e5f0b64d2263242c37af6
+
+PODFILE CHECKSUM: d9142449167bf9d8188b642b846550c2079c090e
+
+COCOAPODS: 1.5.3

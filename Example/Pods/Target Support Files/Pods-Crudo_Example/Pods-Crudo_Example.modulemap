@@ -1,0 +1,6 @@
+framework module Pods_Crudo_Example {
+  umbrella header "Pods-Crudo_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
