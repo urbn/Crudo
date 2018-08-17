@@ -1,6 +1,6 @@
 # Crudo
 
-[![CI Status](https://img.shields.io/travis/Jason Grandelli/Crudo.svg?style=flat)](https://travis-ci.org/Jason Grandelli/Crudo)
+[![CI Status](https://img.shields.io/travis/urbn/Crudo.svg?style=flat)](https://travis-ci.org/urbn/Crudo)
 [![Version](https://img.shields.io/cocoapods/v/Crudo.svg?style=flat)](https://cocoapods.org/pods/Crudo)
 [![License](https://img.shields.io/cocoapods/l/Crudo.svg?style=flat)](https://cocoapods.org/pods/Crudo)
 [![Platform](https://img.shields.io/cocoapods/p/Crudo.svg?style=flat)](https://cocoapods.org/pods/Crudo)
@@ -22,7 +22,7 @@ pod 'Crudo'
 
 ## Author
 
-Jason Grandelli, jasongrandelli@gmail.com
+Jason Grandelli, jgrandelli@urbn.com
 
 ## License
 
