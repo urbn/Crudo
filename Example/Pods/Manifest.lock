@@ -1,16 +1,23 @@
 PODS:
-  - Crudo (1.0)
+  - Crudo (1.0):
+    - URBNSwiftyConvenience
+  - URBNSwiftyConvenience (1.1)
 
 DEPENDENCIES:
   - Crudo (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - URBNSwiftyConvenience
 
 EXTERNAL SOURCES:
   Crudo:
     :path: "../"
 
 SPEC CHECKSUMS:
-  Crudo: 471a69b378780933586014d3999a801e86f14721
+  Crudo: b02653ca41a66812cdf7f780a4c7255c63d095d5
+  URBNSwiftyConvenience: cbe0cb8f9881445d0ddf3a0f2dc9d85f34d74a5c
 
-PODFILE CHECKSUM: d9142449167bf9d8188b642b846550c2079c090e
+PODFILE CHECKSUM: b44b8928469a46790e3a64a1ba72b962ebf45208
 
 COCOAPODS: 1.5.3
